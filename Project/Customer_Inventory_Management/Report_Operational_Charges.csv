@@ -1,0 +1,4 @@
+Cust_Id,Name,Txn_date,Operation,Charge\Ton,Txn_Qty,Operation_Charges
+5004,"Shell Chemicals",2024-12-30,FILLTANK,15.00,7000.00,105000.0000
+5004,"Shell Chemicals",2024-12-30,LOADTRUCK,7.00,6000.00,42000.0000
+"TOTAL CHARGES = ",,,,,,147000.0000
